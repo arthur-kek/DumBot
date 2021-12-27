@@ -18,6 +18,6 @@ bot = telebot.TeleBot('paste_your_api_token_here')
 ## How to run it
 
 ```python
-python BumBot.py
+python DumBot.py
 ```
 At this step bot is running, you have to interact with it through Telegram
